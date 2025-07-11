@@ -1,10 +1,9 @@
 title: 🧠 Muhammad Nouman Ahsan — Intelligent Systems Engineer
-description: |
-  Welcome to my portfolio! I’m a passionate developer and AI engineer with a deep interest in building intelligent, automation-driven systems. My focus lies at the intersection of **natural language processing**, **computer vision**, and **agentic workflows**, creating tools that make complex technologies more intuitive and usable.
-
-  I specialize in crafting large language model (LLM)-powered solutions, designing modular AI systems, and architecting pipelines that convert abstract ideas into real, interactive applications. From multimodal understanding to AI-assisted code reasoning, my work aims to simplify human-AI interaction and accelerate problem-solving through thoughtful engineering.
+description: 
   
+
 remote_theme: pages-themes/cayman@v0.2.0
-show_downloads: "false"
+show_downloads: false
+google_analytics:
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
