@@ -8,9 +8,8 @@
     text-align: center;
     background-color: #159957;
     // background-image: linear-gradient(120deg, #155799, #159957);
-    background-image: linear-gradient(120deg, #0f0f0f, #06301b);
+    background-image: linear-gradient(120deg, #ffffff, #ffffff);
 }
-
 
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
     margin-top: 2rem;
@@ -18,4 +17,10 @@
     font-weight: normal;
     // color: #159957;
     color: #06301b;
+}
+
+.header-shadow {
+    height: 1px;
+    background: "grey";
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
 }
