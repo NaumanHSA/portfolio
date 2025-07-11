@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 .page-header {
-    color: #fff;
+    color: black;
     text-align: center;
     background-color: #159957;
     // background-image: linear-gradient(120deg, #155799, #159957);
@@ -15,12 +15,11 @@
     margin-top: 2rem;
     margin-bottom: 1rem;
     font-weight: normal;
-    // color: #159957;
     color: #06301b;
 }
 
 .header-shadow {
     height: 1px;
-    background: "grey";
-    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
+    background-color: grey;
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.5);
 }
