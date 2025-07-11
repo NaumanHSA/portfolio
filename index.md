@@ -1,11 +1,3 @@
-# 🧠 Muhammad Nouman Ahsan — Intelligent Systems Engineer
-
-Welcome to my portfolio! I’m a passionate developer and AI engineer focused on building intelligent, automation-driven tools that bridge the gap between code, vision, and language. From OCR pipelines to LLM-powered code agents, my work blends deep learning, software engineering, and human-centered design to solve real-world problems.
-
-Whether it's empowering developers with natural language tooling, generating realistic synthetic datasets for OCR, or simulating the legendary Enigma machine in Python — I aim to make complex systems beautifully accessible.
-
----
-
 ## 🚀 Featured Projects
 
 ### 🔍 [CodeMind – AI Code Intelligence Platform](./projects/codemind.md)  
