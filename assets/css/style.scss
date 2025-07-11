@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Now add your custom styles below */
+
+header {
+    background-color: #111 !important; /* blackish */
+}
+
+header a {
+    color: #fff !important; /* white header text */
+}
